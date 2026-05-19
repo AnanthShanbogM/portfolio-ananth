@@ -773,21 +773,6 @@ Hey, if you find any bugs, have ideas for improvements, or want to add a new fea
 5.  Open a Pull Request.
 
 ---
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE). You can find the full
-
----
-
-
-## 👤 Author & Contact
-
-
----
-
----
-
 ## ⭐ Show Your Support
 
 If you like this project, please give it a star ⭐ on GitHub! It helps a lot and motivates me to create more cool stuff. Thanks, Sir! 🙏
